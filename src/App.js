@@ -1,6 +1,7 @@
 // App.js
 import React from 'react';
-import PDFGenerator from './DFGenerator';
+import PDFGenerator from './pdfgenerator';
+//import PDFGenerator from './DFGenerator';
 
 function App() {
   return (
